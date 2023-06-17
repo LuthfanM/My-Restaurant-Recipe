@@ -16,8 +16,38 @@ Sebuah restoran membutuhkan aplikasi untuk mencatat resep. Aplikasi ini mencakup
 Tugas anda adalah membuat aplikasi tersebut dalam bentuk web sehingga staff dari restoran dapat menuliskannya, sehingga di kemudian hari dapat dilihat daftar dan detail dari resep makanan, beserta dengan data master (bahan dan kategori). Buatlah desain flow aplikasi yang mudah digunakan bagi user yang mengisinya dan dengan melihat segala kemungkinan buatlah desain struktur database tersebut semaksimal mungkin tanpa harus mengurangi performa.
 
 ## ✨ Features
-- 🌈 Integrate with Laravel as it's back-end. The Repo is here : 
+- 🌈 Integrate with Laravel as it's back-end. The Repo is here : https://github.com/LuthfanM/My-Restaurant-Recipe-BE
 -  Integrated with PostgreSQL as it's database.
 
-Version : v.1.0
+## Getting Started
+
+First, Install dependencies :
+
+```bash
+npm install
+```
+
+Then :
+```bash
+npm run dev
+# or
+yarn dev
+```
+
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+in order this app to work, you must start your laravel server at port : 8080 or you must do changes in .env
+
+This project integrated with <a href="https://github.com/LuthfanM/My-Restaurant-Recipe-BE">this repository</a> as it's back end.
+
+## Some of Screenshot
+
+![Ss1](https://imgur.com/7kYBtgC)
+
+![Ss2](https://imgur.com/09mr1ws)
+
+![Ss3](https://imgur.com/GRacf0K)
+
+
+<b>Version : v.1.0</b>
 
