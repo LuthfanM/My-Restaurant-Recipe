@@ -42,11 +42,11 @@ This project integrated with <a href="https://github.com/LuthfanM/My-Restaurant-
 
 ## Some of Screenshot
 
-![Ss1](https://imgur.com/7kYBtgC)
+<a href="https://imgur.com/7kYBtgC"><img src="https://i.imgur.com/7kYBtgC.png" title="source: imgur.com" width="50%" height="50%" /></a>
 
-![Ss2](https://imgur.com/09mr1ws)
+<a href="https://imgur.com/09mr1ws"><img src="https://i.imgur.com/09mr1ws.png" title="source: imgur.com" width="50%" height="50%" /></a>
 
-![Ss3](https://imgur.com/GRacf0K)
+<a href="https://imgur.com/GRacf0K"><img src="https://i.imgur.com/GRacf0K.png" title="source: imgur.com" width="50%" height="50%" /></a>
 
 
 <b>Version : v.1.0</b>
