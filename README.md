@@ -15,6 +15,8 @@ Sebuah restoran membutuhkan aplikasi untuk mencatat resep. Aplikasi ini mencakup
 
 Tugas anda adalah membuat aplikasi tersebut dalam bentuk web sehingga staff dari restoran dapat menuliskannya, sehingga di kemudian hari dapat dilihat daftar dan detail dari resep makanan, beserta dengan data master (bahan dan kategori). Buatlah desain flow aplikasi yang mudah digunakan bagi user yang mengisinya dan dengan melihat segala kemungkinan buatlah desain struktur database tersebut semaksimal mungkin tanpa harus mengurangi performa.
 
+Assigned By TLAB
+
 ## ✨ Features
 - 🌈 Integrate with Laravel as it's back-end. The Repo is here : https://github.com/LuthfanM/My-Restaurant-Recipe-BE
 -  Integrated with PostgreSQL as it's database.
